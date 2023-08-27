@@ -1,0 +1,35 @@
+{
+    
+}
+
+body {
+    font-family: Verdana, sans-serif;
+    background-color: #FEE8B0;
+}
+
+#img {
+    width: 400px;
+    height: auto;
+    text-align: center;
+    margin: auto;  
+}
+
+.title {
+    color: white;
+    text-align: center;
+    font-size: 24px;
+}
+
+h1 {
+    background-color: #F97B22;    
+    font-size: 40px;
+}
+
+#ingredients {
+    background-color: #9CA777;
+}
+
+#steps {
+    background-color: #7C9070;
+}
+
